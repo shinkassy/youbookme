@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner_id: 1
+  applicant_id: 1
+  title: MyString
+  disp_flg: false
+  start: 2017-09-12 13:35:21
+  end: 2017-09-12 13:35:21
+  allDay: MyString
+  created_at: 2017-09-12 13:35:21
+  updated_at: 2017-09-12 13:35:21
+
+two:
+  owner_id: 1
+  applicant_id: 1
+  title: MyString
+  disp_flg: false
+  start: 2017-09-12 13:35:21
+  end: 2017-09-12 13:35:21
+  allDay: MyString
+  created_at: 2017-09-12 13:35:21
+  updated_at: 2017-09-12 13:35:21
